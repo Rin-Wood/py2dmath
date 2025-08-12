@@ -10,7 +10,7 @@ except Exception:
 
 setup(
     name="py2dmath",
-    version="1.0.2",
+    version="1.0.0",
     author='wood',
     author_email='miraclerinwood@gmail.com',
     url='https://github.com/Rin-Wood/py2dmath',
@@ -38,3 +38,4 @@ setup(
     ],
     python_requires=">=3.6",
 )
+
