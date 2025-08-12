@@ -14,7 +14,7 @@ setup(
     author='wood',
     author_email='miraclerinwood@gmail.com',
     url='https://github.com/Rin-Wood/py2dmath',
-    description="TEA Decryption",
+    description="Simple calculation",
     long_description=long_description,
     long_description_content_type='text/markdown',
     license="BSD",
@@ -38,4 +38,3 @@ setup(
     ],
     python_requires=">=3.6",
 )
-
