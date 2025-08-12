@@ -4,7 +4,6 @@ Simple calculation
 
 ## Features
 
-- Provides efficient TEA decryption functionality, based on C implementation.
 - Supports Python 3.6+
 
 ## Installation
